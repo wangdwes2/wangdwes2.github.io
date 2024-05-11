@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Habits 3: Put First Things First"
+title:  "Habits 4: Think Win-Win"
 categories: seven-habits
 ---
 
