@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Habit 6: Synergize"
+title:  "Habits 6: Synergize"
 categories: seven-habits
 ---
 
